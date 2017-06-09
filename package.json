@@ -1,0 +1,22 @@
+{
+  "name": "react-native-processors",
+  "version": "1.0.0",
+  "description": "Annotation processor for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dryganets/react-native-processors.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Sergei Dryganets",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dryganets/react-native-processors/issues"
+  },
+  "homepage": "https://github.com/dryganets/react-native-processors#readme"
+}
